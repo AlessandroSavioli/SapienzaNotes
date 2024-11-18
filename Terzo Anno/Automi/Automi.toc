@@ -1,0 +1,24 @@
+\contentsline {section}{\numberline {1}Prefazione}{2}{}%
+\contentsline {section}{\numberline {2}Automi Finiti}{2}{}%
+\contentsline {subsection}{\numberline {2.1}Definizione Formale di Automa Finito}{3}{}%
+\contentsline {subsection}{\numberline {2.2}Definizione Formale di Computazione}{3}{}%
+\contentsline {subsection}{\numberline {2.3}Le Operazioni Regolari}{4}{}%
+\contentsline {subsection}{\numberline {2.4}Non Determinismo}{4}{}%
+\contentsline {subsection}{\numberline {2.5}Espressioni Regolari}{5}{}%
+\contentsline {subsection}{\numberline {2.6}Linguaggi Non Regolari}{8}{}%
+\contentsline {subsubsection}{\numberline {2.6.1}Pumping Lemma}{8}{}%
+\contentsline {section}{\numberline {3}Linguaggi Context-Free}{9}{}%
+\contentsline {subsection}{\numberline {3.1}Grammatiche Context-Free}{9}{}%
+\contentsline {subsection}{\numberline {3.2}Forma Normale di Chomsky}{11}{}%
+\contentsline {subsection}{\numberline {3.3}Automi a Pila}{11}{}%
+\contentsline {subsubsection}{\numberline {3.3.1}Equivalenza con le Grammatiche Context-Free}{13}{}%
+\contentsline {subsection}{\numberline {3.4}I Linguaggi Non Context-Free}{17}{}%
+\contentsline {section}{\numberline {4}Calcolabilità - La tesi di Church-Turing}{17}{}%
+\contentsline {subsection}{\numberline {4.1}Macchine di Turing}{17}{}%
+\contentsline {subsection}{\numberline {4.2}Computazione e Configurazione di una Turing Machine}{18}{}%
+\contentsline {subsection}{\numberline {4.3}Linguaggi Turing-Riconoscibili e Turing-Decidibili}{19}{}%
+\contentsline {subsection}{\numberline {4.4}Varianti di Macchine di Turing}{20}{}%
+\contentsline {subsubsection}{\numberline {4.4.1}Macchina di Turing Multinastro}{20}{}%
+\contentsline {subsubsection}{\numberline {4.4.2}Macchina di Turing non Deterministica}{21}{}%
+\contentsline {subsubsection}{\numberline {4.4.3}Enumeratori}{21}{}%
+\contentsline {section}{\numberline {5}Decidibilità}{22}{}%
