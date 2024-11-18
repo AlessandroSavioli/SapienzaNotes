@@ -1,6 +1,6 @@
-PWD c:\Users\aless\Desktop\AppuntiSapienza\Terzo Anno\Automi
+PWD c:\Users\aless\Desktop\AppuntiSapienza\Terzo_Anno\Automi
 INPUT C:\Users\aless\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\aless\Desktop\AppuntiSapienza\Terzo Anno\Automi\Automi.tex
+INPUT c:\Users\aless\Desktop\AppuntiSapienza\Terzo_Anno\Automi\Automi.tex
 OUTPUT Automi.log
 INPUT C:\Users\aless\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\aless\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
