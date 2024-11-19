@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.18)  18 NOV 2024 17:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.19)  19 NOV 2024 15:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -380,24 +380,34 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 
 {C:/Users/aless/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 
-[2] (CyberSec.aux)
+[2]
+<Images/Data-encryption-decryption-process.png, id=18, 809.0225pt x 286.06876pt>
+File: Images/Data-encryption-decryption-process.png Graphic file (type png)
+<use Images/Data-encryption-decryption-process.png>
+Package pdftex.def Info: Images/Data-encryption-decryption-process.png  used on input line 96.
+(pdftex.def)             Requested size: 283.16212pt x 100.12556pt.
+
+
+[3 <./Images/Data-encryption-decryption-process.png>]
+
+[4] (CyberSec.aux)
  ***********
 LaTeX2e <2024-11-01>
 L3 programming layer <2024-11-02>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 13576 strings out of 473682
- 294179 string characters out of 5719215
- 657101 words of memory out of 5000000
- 36442 multiletter control sequences out of 15000+600000
- 562691 words of font info for 52 fonts, out of 8000000 for 9000
+ 13593 strings out of 473682
+ 294700 string characters out of 5719215
+ 663101 words of memory out of 5000000
+ 36457 multiletter control sequences out of 15000+600000
+ 564133 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,6n,87p,499b,199s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on CyberSec.pdf (2 pages, 55896 bytes).
+ 84i,6n,87p,499b,239s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\aless\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on CyberSec.pdf (4 pages, 137724 bytes).
 PDF statistics:
- 37 PDF objects out of 1000 (max. 8388607)
+ 54 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 18 words of extra memory for PDF output out of 10000 (max. 10000000)
 
