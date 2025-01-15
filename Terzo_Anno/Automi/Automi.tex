@@ -22,11 +22,11 @@
 
 \section{Prefazione}
 
-La teoria della computazione inizia con una semplice domanda, \textbf{'' Cos'è un
-computer? ''}, al giorno d'oggi chiunque potrebbe rispondere, ma i computer reali
-sono piuttosto complessi per permetterci di sviluppare una teoria matematica
-direttamente su di essi, per questo serve avvalersi di un '' Computer Ideale '',
-chiamato \textcolor{red}{Modello Di Computazione}.
+La teoria della computazione inizia con una semplice domanda, \textbf{'' Cos'è
+un computer? ''}, al giorno d'oggi chiunque potrebbe rispondere, ma i computer
+reali sono piuttosto complessi per permetterci di sviluppare una teoria
+matematica direttamente su di essi, per questo serve avvalersi di un '' Computer
+Ideale '', chiamato \textcolor{red}{Modello Di Computazione}.
 
 Come per ogni modello scientifico un modello di computazione può essere accurato
 in alcuni aspetti ma non rispetto ad altri, per questo lungo il corso ne useremo
@@ -58,8 +58,8 @@ Possiamo raffigurare la disposizione in questo modo:
 
 Questo sistema di controllo può essere in 2 diversi stati, \textbf{OPEN} o
 \textbf{CLOSED}, che rappresentano la condizione corrispondente alla porta,
-mentre possono esserci quattro condizioni di input: \textbf{"FRONT", "REAR",
-"BOTH", "NEITHER"}
+mentre possono esserci quattro condizioni di input: \textbf{`FRONT', `REAR',
+`BOTH', `NEITHER'}
 
 \begin{center}    
     \begin{tikzpicture} [node distance = 5cm, on grid, auto]
@@ -124,15 +124,15 @@ scriveremo
 \subsection{Definizione Formale di Computazione}
 
 \textcolor{red}{Definizione}
-Sia M = (Q, $\Sigma$, $\delta$, $q_0$, F) un automa finito e sia w =
-$w_1w_2...w_n$ una stringa dove ogni $w_i$ è un elemento dell'alfabeto $\Sigma$.
+Sia M = (Q, $\Sigma$, $\delta$, $q_0$, F) un automa finito e sia w = $w_1w_2
+\cdots w_n$ una stringa dove ogni $w_i$ è un elemento dell'alfabeto $\Sigma$.
 
 allora M \textbf{accetta} w se esiste una sequenza di stati $r_0, r_1, ..., r_n$
 in Q con tre condizioni:
 
 \begin{enumerate}
     \item $r_0 = q_0$
-    \item $\delta (r_i, w_i+1) = r_i+1$, per i = 0, ..., n-1
+    \item $\delta (r_i, w_i+1) = r_i+1$, per i = 0, \ldots, n-1
     \item $r_n \in F$
 \end{enumerate}
 
@@ -155,8 +155,8 @@ Concatenazione e Star} come segue:
     \item \textbf{Unione}: A $\cup$ B = \{x $\mid$ x $\in$ A o x $\in$ B\}
     \item \textbf{Concatenazione} : A $\circ$ B = \{xy $\mid$ x $\in$ A e y
     $\in$ B\}
-    \item \textbf{Star} $A^*$ = \{$x_1x_2...x_k$ $\mid$ k $\geq$ 0 e ogni $x_i
-    \in A$\}
+    \item \textbf{Star} $A^*$ = \{$x_1x_2 \cdots x_k$ $\mid$ k $\geq$ 0 e ogni
+    $x_i \in A$\}
 \end{itemize}
 
 \textcolor{green! 50! black}{Teorema}
@@ -185,7 +185,7 @@ un automa finito non deterministico}.
 
 In un DFA le etichette sugli archi di transizione sono simboli dell'alfabeto,
 mentre in un NFA si possono avere archi etichettati con simboli dell'alfabeto e
-un nuovo tipo di arco, etichettato con "$\varepsilon$", chiamato epsilon-arco.
+un nuovo tipo di arco, etichettato con '$\varepsilon$', chiamato epsilon-arco.
 
 \noindent \textcolor{red}{Come computa un NFA?}
 
@@ -362,7 +362,7 @@ Prima mostriamo come trasformare un DFA in un GNFA e poi come trasformare un
 GNFA in un'espresione regolare. 
 
 Un GNFA legge blocchi di simboli dall'input, non necessariamente solo un simbolo
-alla volta come in un comune NFA. Per comodità, richiediamo che ogni GNFA abbia
+alla volta come in un comune NFA.Per comodità, richiediamo che ogni GNFA abbia
 sempre una forma speciale che soddisfi le seguenti condizioni:
 
 \begin{enumerate}
@@ -388,7 +388,7 @@ Successivamente, mostriamo come trasformare un GNFA in un'espressione regolare.
 Supponiamo che il GNFA abbia k stati. Allora, poiché un GNFA deve avere uno
 stato iniziale ed uno finale distinti, sappiamo che k $\geq$ 2. 
 
-Se k $>$ 2, costruiamo un GNFA equivalente con k - 1 stati. Questo passo può
+Se k $>$ 2, costruiamo un GNFA equivalente con $k - 1$ stati. Questo passo può
 essere svolto fino a quando il nostro GNFA avrà solo due stati, quindi stato
 iniziale e stato accettante, e l'etichetta dell'arco di transizione che li
 collega sarà proprio la nostra \textbf{Espressione Regolare}.
@@ -416,7 +416,7 @@ teorema sui linguaggi regolari, chiamato Pumping Lemma. Questo teorema afferma
 che tutti i linguaggi regolari hanno una proprietà speciale.
 
 La proprietà afferma che tutte le stringhe nel linguaggio possono essere
-"replicate" se la loro lunghezza raggiunge almeno uno specifico valore, chiamato
+`replicate' se la loro lunghezza raggiunge almeno uno specifico valore, chiamato
 \textbf{Lunghezza del Pumping}. Questo significa che ogni tale stringa contiene
 una parte che può essere ripetuta un numero qualsiasi di volte ottenendo una
 stringa che appartiene ancora al linguaggio.
@@ -431,7 +431,7 @@ allora s può essere scomposta in tre parti, s = xyz, che soddisfano le seguenti
 condizioni:
 
 \begin{enumerate}
-    \item per ogni i $\geq$ 0, $xy^iz \in A$,
+    \item per ogni i $\geq$ 0, $xy^{i}z \in A$,
     \item $|y| > 0$,
     \item $|xy| \leq p$.
 \end{enumerate}
@@ -441,9 +441,9 @@ condizioni:
 Sia M = (Q, $\Sigma$, $\delta$, $q_1$, F) un DFA che riconosce A e sia p il
 numero di stati di M. 
 
-Sia s = $s_1s_2...s_n$ un stringa in A di lunghezza n dove n $\geq$ p. Sia $r_1,
-..., r_n+1$ la sequenza di stati attraversati da M mentre elabora s, quindi
-$\delta(r_i,s_i) = r_i+1$ per i compreso tra 1 ed n. Questa sequenza ha
+Sia s = $s_1s_2\cdots s_n$ un stringa in A di lunghezza n dove n $\geq$ p. Sia
+$r_1, ..., r_n+1$ la sequenza di stati attraversati da M mentre elabora s,
+quindi $\delta(r_i,s_i) = r_i+1$ per i compreso tra 1 ed n. Questa sequenza ha
 lunghezza n + 1, che è almeno p + 1. Due tra i primi p + 1 elementi nella
 sequenza devono essere lo stesso stato, per il \textbf{principio della
 piccionaia}. 
@@ -553,10 +553,10 @@ regola della grammatica, diciamo che uAv \textbf{Produce} uwv, e lo denotiamo
 come uAv $\rightarrow$ uwv. 
 
 Diciamo invece che u \textbf{Deriva} da v, e lo denotiamo con u $\rightarrow^*$
-v, se u = v o se esiste una sequenza $u_1,u_2,...,u_k$ con k $\geq$ 0 e
+v, se u = v o se esiste una sequenza $u_1,u_2,\ldots ,u_k$ con k $\geq$ 0 e
 
 \begin{center}
-    u $\rightarrow$ $u_1$ $\rightarrow$ $u_2$ $\rightarrow$ ... $\rightarrow$
+    u $\rightarrow$ $u_1$ $\rightarrow$ $u_2$ $\rightarrow$ \ldots $\rightarrow$
     $u_k$ $\rightarrow$ v
 \end{center}
 
@@ -604,7 +604,7 @@ regola è della forma
     A $\rightarrow$ a
 \end{center}
 
-dove "a" è un terminale e "A, B, C" sono variabili qualsiasi, tranne che B e C
+dove `a' è un terminale e `A, B, C' sono variabili qualsiasi, tranne che B e C
 non possono essere la variabile iniziale.
 
 Inoltre, permettiamo la regola S $\rightarrow$ $\varepsilon$, dove S è la
@@ -651,9 +651,9 @@ il successivo simbolo da leggere.
 \draw    (198,109) -- (271,109) ;
 %Straight Lines [id:da9542933537032088] 
 \draw    (271,109) -- (271,125) ; \draw [shift={(271,127)}, rotate = 270]
-[color={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.75]
-(10.93,-3.29) .. controls (6.95,-1.4) and (3.31,-0.3) .. (0,0) .. controls
-(3.31,0.3) and (6.95,1.4) .. (10.93,3.29)   ;
+[color={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.75] (10.93,-3.29)
+.. controls (6.95,-1.4) and (3.31,-0.3) .. (0,0) .. controls (3.31,0.3) and
+(6.95,1.4) .. (10.93,3.29)   ;
 
 % Text Node
 \draw (117,107) node [anchor=north west][inner sep=0.75pt]   [align=left]
@@ -700,9 +700,9 @@ automa a pila, come mostrato nella figura seguente.
 \draw    (198,109) -- (271,109) ;
 %Straight Lines [id:da9542933537032088] 
 \draw    (271,109) -- (271,125) ; \draw [shift={(271,127)}, rotate = 270]
-[color={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.75]
-(10.93,-3.29) .. controls (6.95,-1.4) and (3.31,-0.3) .. (0,0) .. controls
-(3.31,0.3) and (6.95,1.4) .. (10.93,3.29)   ;
+[color={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.75] (10.93,-3.29)
+.. controls (6.95,-1.4) and (3.31,-0.3) .. (0,0) .. controls (3.31,0.3) and
+(6.95,1.4) .. (10.93,3.29)   ;
 %Straight Lines [id:da7703102214779298] 
 \draw    (198,121) -- (237,121) ;
 %Straight Lines [id:da18533887117997438] 
@@ -752,7 +752,7 @@ automa a pila, come mostrato nella figura seguente.
 \end{center}
 
 Un automa a pila (PDA) può scrivere simboli nella pila e rileggerli in seguito.
-Scrivere un simbolo "spinge giù" tutti gli altri simboli nella pila. In un
+Scrivere un simbolo `spinge giù' tutti gli altri simboli nella pila. In un
 qualunque momento il simbolo sulla cima (top) della pila può essere letto e
 rimosso, facendo risalire tutti gli altri simboli. 
 
@@ -808,7 +808,7 @@ riconosce.
 
 --------------------------------------------------------------------------------------------------
 
-Andiamo a vedere dunque entrambi i lati del "se e solo se":
+Andiamo a vedere dunque entrambi i lati del `se e solo se':
 
 --------------------------------------------------------------------------------------------------
 
@@ -1054,15 +1054,15 @@ Dove r è lo stato in cui la pila si svuota.
 
 \subsection{I Linguaggi Non Context-Free}
 
-\section{Calcolabilità - La tesi di Church-Turing}
+\section{Calcolabilità \- La tesi di Church-Turing}
 
 Finora nello sviluppare la teoria della computazione abbiamo presentato vari
 modelli di dispositivi di calcolo. Gli automi finiti sono un buon modello per
 quei dispositivi che hanno poca memoria, gli automi a pila costituiscono un buon
 modello per quei dispositivi che hanno una memoria illimitata, ma utilizzabile
 solo nelle modalità di una pila. Abbiamo dimostrato però che alcuni calcoli
-vanno oltre le capacità di questi modelli, quindi serve trovare un modello "più
-universale".
+vanno oltre le capacità di questi modelli, quindi serve trovare un modello `più
+universale'.
 
 \subsection{Macchine di Turing}
 
@@ -1109,9 +1109,9 @@ Ecco uno schema di una macchina di turing:
 \draw    (198,109) -- (271,109) ;
 %Straight Lines [id:da9542933537032088] 
 \draw    (271,109) -- (271,125) ; \draw [shift={(271,127)}, rotate = 270]
-[color={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.75]
-(10.93,-3.29) .. controls (6.95,-1.4) and (3.31,-0.3) .. (0,0) .. controls
-(3.31,0.3) and (6.95,1.4) .. (10.93,3.29)   ;
+[color={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.75] (10.93,-3.29)
+.. controls (6.95,-1.4) and (3.31,-0.3) .. (0,0) .. controls (3.31,0.3) and
+(6.95,1.4) .. (10.93,3.29)   ;
 %Shape: Rectangle [id:dp5825598898008435] 
 \draw   (368,129) -- (473,129) -- (473,155) -- (368,155) -- cycle ;
 %Straight Lines [id:da35919750793452043] 
@@ -1203,7 +1203,7 @@ macchina M si verificano cambiamenti dello stato corrente, del contenuto
 corrente del nastro e della posizione corrente della testina. Un'impostazione di
 questi tre elementi è chiamata \textbf{configurazione} della macchina di Turing.
 Per uno stato q e due stringhe u, v sull'alfabeto $\Gamma$ del nastro, scriviamo
-"u q v" per indicare la configurazione, dove:
+`u q v' per indicare la configurazione, dove:
 
 \begin{enumerate}
     \item lo stato corrente è q,
@@ -1220,7 +1220,7 @@ $C_2$ in un unico passo. Definiamo formalmente questa nozione nel seguente modo.
 Supponiamo di avere a, b e c $\in \Gamma$, così come u e v $\in \Gamma^*$ e gli
 stati $q_i e q_j$.
 
-In tal caso "u a $q_1$ b v" e "u $q_j$ a c v" sono due configurazioni. Diciamo
+In tal caso `u a $q_1$ b v' e `u $q_j$ a c v' sono due configurazioni. Diciamo
 che
 
 \begin{center}
@@ -1359,10 +1359,10 @@ mostrare come \textbf{simulare} M con S.
 
 Supponiamo che M abbia k nastri, allora S simula l'effetto di k nastri
 memorizzando le loro informazioni sul suo singolo nastro. Essa utilizza un nuovo
-simbolo "\#" come delimitatore per separare i contenuti dei diversi nastri.
+simbolo `\#' come delimitatore per separare i contenuti dei diversi nastri.
 Invece, per tenere traccia delle posizioni delle testine, S marca il simbolo in
-cui dovrebbe essere posizionata la testina per tutti i contenuti dei "nastri
-virtuali".
+cui dovrebbe essere posizionata la testina per tutti i contenuti dei `nastri
+virtuali'.
 
 \subsubsection{Macchina di Turing non Deterministica}
 
@@ -1414,7 +1414,8 @@ algoritmica dei problemi.
 
 \subsection{Linguaggi Decidibili}
 
-In questa sezione daremo degli esempi di linguaggi decidibili mediante algoritmi.
+In questa sezione daremo degli esempi di linguaggi decidibili mediante
+algoritmi.
 
 \subsubsection{Problemi decidibili relativi a linguaggi regolari}
 
