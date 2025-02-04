@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.19)  4 FEB 2025 17:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.19)  4 FEB 2025 17:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -7,10 +7,18 @@ entering extended mode
 (c:/Users/aless/Desktop/AppuntiSapienza/Terzo_Anno/OGA/OGA.tex
 LaTeX2e <2024-11-01>
 L3 programming layer <2024-11-02>
-(C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
-Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
-(C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
-File: size10.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
+(C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/extsizes\extarticle.cls
+Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
+(C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/extsizes\size14.clo
+File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+) (C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/base\exscale.sty
+Package: exscale 2018/09/24 v2.1i Standard LaTeX package exscale
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+\big@size=\dimen141
 )
 \c@part=\count196
 \c@section=\count197
@@ -22,7 +30,7 @@ File: size10.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
 \c@table=\count269
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
-\bibindent=\dimen141
+\bibindent=\dimen142
 ) (C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
  (C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
@@ -39,8 +47,8 @@ Package graphics Info: Driver file: pdftex.def on input line 106.
  (C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen142
-\Gin@req@width=\dimen143
+\Gin@req@height=\dimen143
+\Gin@req@width=\dimen144
 ) (C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
 Package: amsmath 2024/11/05 v2.17t AMS math features
 \@mathmargin=\skip51
@@ -51,10 +59,10 @@ Package: amstext 2021/08/26 v2.01 AMS text
  (C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks18
-\ex@=\dimen144
+\ex@=\dimen145
 )) (C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen145
+\pmbraise@=\dimen146
 ) (C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
@@ -75,7 +83,7 @@ LaTeX Info: Redefining \big on input line 721.
 LaTeX Info: Redefining \Big on input line 722.
 LaTeX Info: Redefining \bigg on input line 723.
 LaTeX Info: Redefining \Bigg on input line 724.
-\big@size=\dimen146
+\big@size=\dimen147
 LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
 \macc@depth=\count275
@@ -93,12 +101,12 @@ LaTeX Info: Redefining \Relbar on input line 970.
 \column@=\count280
 \maxfields@=\count281
 \andhelp@=\toks20
-\eqnshift@=\dimen147
-\alignsep@=\dimen148
-\tagshift@=\dimen149
-\tagwidth@=\dimen150
-\totwidth@=\dimen151
-\lineht@=\dimen152
+\eqnshift@=\dimen148
+\alignsep@=\dimen149
+\tagshift@=\dimen150
+\tagwidth@=\dimen151
+\totwidth@=\dimen152
+\lineht@=\dimen153
 \@envbody=\toks21
 \multlinegap=\skip52
 \multlinetaggap=\skip53
@@ -145,13 +153,13 @@ LaTeX Font Info:    ... okay on input line 10.
  (C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count283
-\scratchdimen=\dimen153
+\scratchdimen=\dimen154
 \scratchbox=\box55
 \nofMPsegments=\count284
 \nofMParguments=\count285
 \everyMPshowfont=\toks23
 \MPscratchCnt=\count286
-\MPscratchDim=\dimen154
+\MPscratchDim=\dimen155
 \MPnumerator=\count287
 \makeMPintoPDFobject=\count288
 \everyMPtoPDFconversion=\toks24
@@ -184,7 +192,12 @@ Package grfext Info: Graphics extension search list:
 (grfext)             \AppendGraphicsExtensions on input line 504.
  (C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
-)) (OGA.toc)
+)) (OGA.toc
+Overfull \hbox (0.73979pt too wide) in paragraph at lines 8--8
+ [][] []\OT1/cmr/m/n/14.4 Il mod-ello Ger-ar-chico Fun-zionale (Strut-tura Ger- 
+ []
+
+)
 \tf@toc=\write3
 \openout3 = `OGA.toc'.
 
@@ -193,47 +206,49 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 [1
 
 {C:/Users/aless/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-<images/Esempio_Organigramma.png, id=10, 496.10344pt x 242.40562pt>
+
+[2]
+<images/Esempio_Organigramma.png, id=12, 496.10344pt x 242.40562pt>
 File: images/Esempio_Organigramma.png Graphic file (type png)
 <use images/Esempio_Organigramma.png>
 Package pdftex.def Info: images/Esempio_Organigramma.png  used on input line 70.
-(pdftex.def)             Requested size: 322.46341pt x 157.56177pt.
-
-
-[2]
-<images/modello_gerarchico.png, id=16, 480.29437pt x 216.05719pt>
-File: images/modello_gerarchico.png Graphic file (type png)
-<use images/modello_gerarchico.png>
-Package pdftex.def Info: images/modello_gerarchico.png  used on input line 100.
-(pdftex.def)             Requested size: 312.18762pt x 140.43549pt.
+(pdftex.def)             Requested size: 396.88329pt x 193.92474pt.
 
 
 [3 <./images/Esempio_Organigramma.png>]
-<images/modello_gerarchico_funzionale.png, id=21, 663.98062pt x 234.1247pt>
+<images/modello_gerarchico.png, id=18, 480.29437pt x 216.05719pt>
+File: images/modello_gerarchico.png Graphic file (type png)
+<use images/modello_gerarchico.png>
+Package pdftex.def Info: images/modello_gerarchico.png  used on input line 100.
+(pdftex.def)             Requested size: 384.23601pt x 172.84596pt.
+
+
+[4 <./images/modello_gerarchico.png>]
+<images/modello_gerarchico_funzionale.png, id=23, 663.98062pt x 234.1247pt>
 File: images/modello_gerarchico_funzionale.png Graphic file (type png)
 <use images/modello_gerarchico_funzionale.png>
-Package pdftex.def Info: images/modello_gerarchico_funzionale.png  used on input line 117.
-(pdftex.def)             Requested size: 331.98949pt x 117.06206pt.
+Package pdftex.def Info: images/modello_gerarchico_funzionale.png  used on input line 119.
+(pdftex.def)             Requested size: 424.94614pt x 149.83928pt.
 
 
-[4 <./images/modello_gerarchico.png> <./images/modello_gerarchico_funzionale.png>] (OGA.aux)
+[5 <./images/modello_gerarchico_funzionale.png>] (OGA.aux)
  ***********
 LaTeX2e <2024-11-01>
 L3 programming layer <2024-11-02>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 3133 strings out of 473682
- 50745 string characters out of 5719215
- 447267 words of memory out of 5000000
- 26188 multiletter control sequences out of 15000+600000
- 563787 words of font info for 56 fonts, out of 8000000 for 9000
+ 3157 strings out of 473682
+ 53245 string characters out of 5719215
+ 445632 words of memory out of 5000000
+ 26216 multiletter control sequences out of 15000+600000
+ 563568 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  59i,6n,67p,272b,199s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\aless\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on OGA.pdf (4 pages, 167212 bytes).
+ <C:\Users\aless\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1440.pk><C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on OGA.pdf (5 pages, 140377 bytes).
 PDF statistics:
- 52 PDF objects out of 1000 (max. 8388607)
+ 45 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 

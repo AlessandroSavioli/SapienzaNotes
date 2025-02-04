@@ -2,7 +2,7 @@
 \contentsline {section}{\numberline {2}Lezione 2}{2}{}%
 \contentsline {section}{\numberline {3}Lezione 3}{2}{}%
 \contentsline {subsection}{\numberline {3.1}La Struttura Organizzativa}{2}{}%
-\contentsline {subsection}{\numberline {3.2}Gli Organigrammi}{2}{}%
-\contentsline {subsection}{\numberline {3.3}I vari Tipi di Struttura Organizzativa}{3}{}%
-\contentsline {subsubsection}{\numberline {3.3.1}Il modello Gerarchico (Struttura Monofunzionale)}{3}{}%
-\contentsline {subsubsection}{\numberline {3.3.2}Il modello Gerarchico Funzionale (Struttura Gerarchico Funzionale)}{4}{}%
+\contentsline {subsection}{\numberline {3.2}Gli Organigrammi}{3}{}%
+\contentsline {subsection}{\numberline {3.3}I vari Tipi di Struttura Organizzativa}{4}{}%
+\contentsline {subsubsection}{\numberline {3.3.1}Il modello Gerarchico (Struttura Monofunzionale)}{4}{}%
+\contentsline {subsubsection}{\numberline {3.3.2}Il modello Gerarchico Funzionale (Struttura Gerarchico Funzionale)}{5}{}%
