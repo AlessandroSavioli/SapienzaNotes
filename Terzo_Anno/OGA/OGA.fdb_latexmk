@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1738743461.28674 "c:/Users/aless/Desktop/AppuntiSapienza/Terzo_Anno/OGA/OGA.tex" "OGA.pdf" "OGA" 1738743461.82962 0
+["pdflatex"] 1738745428.31407 "c:/Users/aless/Desktop/AppuntiSapienza/Terzo_Anno/OGA/OGA.tex" "OGA.pdf" "OGA" 1738745428.90616 0
   "C:/Users/aless/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1738686200 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/aless/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1440.pk" 1738686199 16968 04c8e89d719d272900ad1de84afadc26 ""
   "C:/Users/aless/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1732020687 11986914 cd054101c759eecf2994f134ec54add5 ""
@@ -43,10 +43,10 @@
   "C:/Users/aless/AppData/Local/Programs/MiKTeX/tex/latex/kvsetkeys/kvsetkeys.sty" 1665066333 13815 760b0c02f691ea230f5359c4e1de23a7 ""
   "C:/Users/aless/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1716480499 29785 9f93ab201fe5dd053afcc6c1bcf7d266 ""
   "C:/Users/aless/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "OGA.aux" 1738743461 1570 4d51bec48981d0a5f09603b571859ec8 "pdflatex"
-  "OGA.tex" 1738743460 7397 31166e3c415299f04b95aefebecadc55 ""
-  "OGA.toc" 1738743461 1005 989f4accd95c8eb516a63135bee4aaab "pdflatex"
-  "c:/Users/aless/Desktop/AppuntiSapienza/Terzo_Anno/OGA/OGA.tex" 1738743460 7397 31166e3c415299f04b95aefebecadc55 ""
+  "OGA.aux" 1738745428 2438 5074a0b9a801da675bd5707eaf9954fd "pdflatex"
+  "OGA.tex" 1738745427 11315 35d59c62136de104d2c1d8073cab00e1 ""
+  "OGA.toc" 1738745428 1585 2431f83fe9b62880c7a4f7e4d7197ccc "pdflatex"
+  "c:/Users/aless/Desktop/AppuntiSapienza/Terzo_Anno/OGA/OGA.tex" 1738745427 11315 35d59c62136de104d2c1d8073cab00e1 ""
   "images/Esempio_Organigramma.png" 1738684123 68981 e74b9060f984d6198363db7a1c96d23a ""
   "images/modello_divisionale.png" 1738741663 38448 3bd1cc8c95be63ca51540ce624664278 ""
   "images/modello_geografico.png" 1738742051 37609 a07fc998e280cb3700c9786781248a08 ""
@@ -54,6 +54,7 @@
   "images/modello_gerarchico_funzionale.png" 1738685481 22717 3993d86260cbe791c9ea57dfaa1a2a38 ""
   "images/modello_matrice.png" 1738742347 20194 9ec7636049fb51eade5c1d1a2fe6e34b ""
   "images/modello_rete.png" 1738742678 49451 e7db86a947debe055fb8961da65e5103 ""
+  "images/stati_sviluppo.png" 1738745035 163612 b02207de0241b8529f1a1d686d741e42 ""
   (generated)
   "OGA.aux"
   "OGA.log"

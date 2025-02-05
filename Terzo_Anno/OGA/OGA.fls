@@ -91,9 +91,9 @@ INPUT C:\Users\aless\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tf
 INPUT C:\Users\aless\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
 INPUT C:\Users\aless\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
 INPUT C:\Users\aless\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
-OUTPUT OGA.toc
 OUTPUT OGA.pdf
 INPUT C:\Users\aless\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+OUTPUT OGA.toc
 INPUT C:\Users\aless\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\aless\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1440.tfm
 INPUT .\images\Esempio_Organigramma.png
@@ -142,6 +142,13 @@ INPUT .\images\modello_rete.png
 INPUT .\images\modello_rete.png
 INPUT .\images\modello_rete.png
 INPUT .\images\modello_rete.png
+INPUT .\images\stati_sviluppo.png
+INPUT .\images\stati_sviluppo.png
+INPUT .\images\stati_sviluppo.png
+INPUT .\images\stati_sviluppo.png
+INPUT .\images\stati_sviluppo.png
+INPUT .\images\stati_sviluppo.png
+INPUT .\images\stati_sviluppo.png
 INPUT OGA.aux
 INPUT C:\Users\aless\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1440.pk
 INPUT C:\Users\aless\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1440.pk
