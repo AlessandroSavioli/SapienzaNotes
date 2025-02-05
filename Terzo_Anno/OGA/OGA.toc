@@ -29,3 +29,13 @@
 \contentsline {subsection}{\numberline {4.5}l'Analisi di bilancio}{19}{}%
 \contentsline {section}{\numberline {5}Lezione 5}{19}{}%
 \contentsline {subsection}{\numberline {5.1}La start-up}{19}{}%
+\contentsline {subsection}{\numberline {5.2}La Hockey Stick Growth}{20}{}%
+\contentsline {subsubsection}{\numberline {5.2.1}Tinkering stage, fase di avvio}{21}{}%
+\contentsline {subsubsection}{\numberline {5.2.2}Blade years stage, fase di trazione}{21}{}%
+\contentsline {subsubsection}{\numberline {5.2.3}Growth inflection point, fase di scalabilità}{22}{}%
+\contentsline {subsubsection}{\numberline {5.2.4}Surging growth stage, fase di maturità}{22}{}%
+\contentsline {subsection}{\numberline {5.3}La start-up in Italia}{23}{}%
+\contentsline {subsection}{\numberline {5.4}La business idea}{23}{}%
+\contentsline {subsection}{\numberline {5.5}Il business model}{24}{}%
+\contentsline {section}{\numberline {6}Lezione 6}{25}{}%
+\contentsline {subsection}{\numberline {6.1}I vari tipi di business model}{25}{}%
