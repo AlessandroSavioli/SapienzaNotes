@@ -18,3 +18,8 @@
 \contentsline {subsubsection}{\numberline {4.1.4}Stadio di elaborazione}{12}{}%
 \contentsline {subsection}{\numberline {4.2}Stadi del Declino di un'azienda}{13}{}%
 \contentsline {subsubsection}{\numberline {4.2.1}Stadio della cecità}{13}{}%
+\contentsline {subsubsection}{\numberline {4.2.2}Stadio dell'inattività}{14}{}%
+\contentsline {subsubsection}{\numberline {4.2.3}Stadio dell'errore}{14}{}%
+\contentsline {subsubsection}{\numberline {4.2.4}Stadio della crisi}{15}{}%
+\contentsline {subsubsection}{\numberline {4.2.5}Stadio della dissoluzione}{15}{}%
+\contentsline {subsection}{\numberline {4.3}I diversi tipi di Azienda in Italia}{16}{}%
