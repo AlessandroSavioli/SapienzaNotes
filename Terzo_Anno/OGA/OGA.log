@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.19)  5 FEB 2025 19:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.19)  5 FEB 2025 20:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -201,110 +201,110 @@ Overfull \hbox (0.73979pt too wide) in paragraph at lines 8--8
 
 [1
 
-{C:/Users/aless/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}])
+{C:/Users/aless/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+
+[2])
 \tf@toc=\write3
 \openout3 = `OGA.toc'.
 
 
 
-[2]
-
 [3]
-<images/Esempio_Organigramma.png, id=15, 496.10344pt x 242.40562pt>
+
+[4]
+<images/Esempio_Organigramma.png, id=18, 496.10344pt x 242.40562pt>
 File: images/Esempio_Organigramma.png Graphic file (type png)
 <use images/Esempio_Organigramma.png>
 Package pdftex.def Info: images/Esempio_Organigramma.png  used on input line 70.
 (pdftex.def)             Requested size: 396.88329pt x 193.92474pt.
 
 
-[4 <./images/Esempio_Organigramma.png>]
-<images/modello_gerarchico.png, id=21, 480.29437pt x 216.05719pt>
+[5 <./images/Esempio_Organigramma.png>]
+<images/modello_gerarchico.png, id=24, 480.29437pt x 216.05719pt>
 File: images/modello_gerarchico.png Graphic file (type png)
 <use images/modello_gerarchico.png>
 Package pdftex.def Info: images/modello_gerarchico.png  used on input line 100.
 (pdftex.def)             Requested size: 384.23601pt x 172.84596pt.
 
 
-[5 <./images/modello_gerarchico.png>]
-<images/modello_gerarchico_funzionale.png, id=26, 663.98062pt x 234.1247pt>
+[6 <./images/modello_gerarchico.png>]
+<images/modello_gerarchico_funzionale.png, id=29, 663.98062pt x 234.1247pt>
 File: images/modello_gerarchico_funzionale.png Graphic file (type png)
 <use images/modello_gerarchico_funzionale.png>
 Package pdftex.def Info: images/modello_gerarchico_funzionale.png  used on input line 119.
 (pdftex.def)             Requested size: 424.94614pt x 149.83928pt.
 
 
-[6 <./images/modello_gerarchico_funzionale.png>]
-<images/modello_divisionale.png, id=31, 794.97pt x 347.04657pt>
+[7 <./images/modello_gerarchico_funzionale.png>]
+<images/modello_divisionale.png, id=35, 794.97pt x 347.04657pt>
 File: images/modello_divisionale.png Graphic file (type png)
 <use images/modello_divisionale.png>
 Package pdftex.def Info: images/modello_divisionale.png  used on input line 158.
 (pdftex.def)             Requested size: 397.48402pt x 173.52286pt.
 
 
-[7]
-<images/modello_geografico.png, id=36, 790.45313pt x 357.58594pt>
+[8]
+<images/modello_geografico.png, id=39, 790.45313pt x 357.58594pt>
 File: images/modello_geografico.png Graphic file (type png)
 <use images/modello_geografico.png>
 Package pdftex.def Info: images/modello_geografico.png  used on input line 173.
 (pdftex.def)             Requested size: 395.22559pt x 178.79253pt.
 
 
-[8 <./images/modello_divisionale.png> <./images/modello_geografico.png>]
-<images/modello_matrice.png, id=42, 698.61pt x 341.77687pt>
+[9 <./images/modello_divisionale.png> <./images/modello_geografico.png>]
+<images/modello_matrice.png, id=45, 698.61pt x 341.77687pt>
 File: images/modello_matrice.png Graphic file (type png)
 <use images/modello_matrice.png>
 Package pdftex.def Info: images/modello_matrice.png  used on input line 184.
 (pdftex.def)             Requested size: 419.16924pt x 205.0677pt.
-<images/modello_rete.png, id=43, 465.99094pt x 364.36125pt>
+<images/modello_rete.png, id=46, 465.99094pt x 364.36125pt>
 File: images/modello_rete.png Graphic file (type png)
 <use images/modello_rete.png>
 Package pdftex.def Info: images/modello_rete.png  used on input line 198.
 (pdftex.def)             Requested size: 372.79324pt x 291.48938pt.
 
 
-[9 <./images/modello_matrice.png>]
+[10 <./images/modello_matrice.png>]
 
-[10 <./images/modello_rete.png>]
+[11 <./images/modello_rete.png>]
 
-[11]
-<images/stati_sviluppo.png, id=55, 785.93625pt x 346.29375pt>
+[12]
+<images/stati_sviluppo.png, id=58, 785.93625pt x 346.29375pt>
 File: images/stati_sviluppo.png Graphic file (type png)
 <use images/stati_sviluppo.png>
 Package pdftex.def Info: images/stati_sviluppo.png  used on input line 283.
 (pdftex.def)             Requested size: 392.96716pt x 173.14644pt.
 
 
-[12]
+[13]
 
-[13 <./images/stati_sviluppo.png>]
+[14 <./images/stati_sviluppo.png>]
 
-[14]
-<images/stadi_declino.png, id=67, 702.37407pt x 355.3275pt>
+[15]
+<images/stadi_declino.png, id=70, 702.37407pt x 355.3275pt>
 File: images/stadi_declino.png Graphic file (type png)
 <use images/stadi_declino.png>
 Package pdftex.def Info: images/stadi_declino.png  used on input line 357.
 (pdftex.def)             Requested size: 421.42769pt x 213.19814pt.
 
 
-[15 <./images/stadi_declino.png>]
-
-[16]
+[16 <./images/stadi_declino.png>]
 
 [17]
 
 [18]
 
 [19]
-<images/hockey_stick.png, id=85, 484.05844pt x 246.1697pt>
+
+[20]
+<images/hockey_stick.png, id=88, 484.05844pt x 246.1697pt>
 File: images/hockey_stick.png Graphic file (type png)
 <use images/hockey_stick.png>
 Package pdftex.def Info: images/hockey_stick.png  used on input line 508.
 (pdftex.def)             Requested size: 387.24727pt x 196.936pt.
 
 
-[20 <./images/hockey_stick.png>]
-
-[21]
+[21 <./images/hockey_stick.png>]
 
 [22]
 
@@ -312,24 +312,114 @@ Package pdftex.def Info: images/hockey_stick.png  used on input line 508.
 
 [24]
 
-[25] (OGA.aux)
+[25]
+<images/transazionale.png, id=106, 706.89093pt x 334.24875pt>
+File: images/transazionale.png Graphic file (type png)
+<use images/transazionale.png>
+Package pdftex.def Info: images/transazionale.png  used on input line 671.
+(pdftex.def)             Requested size: 424.13783pt x 200.55078pt.
+
+
+[26 <./images/transazionale.png>]
+<images/marketplace.png, id=111, 798.73407pt x 346.29375pt>
+File: images/marketplace.png Graphic file (type png)
+<use images/marketplace.png>
+Package pdftex.def Info: images/marketplace.png  used on input line 688.
+(pdftex.def)             Requested size: 399.36606pt x 173.14644pt.
+
+
+[27 <./images/marketplace.png>]
+<images/saas.png, id=116, 707.64375pt x 325.215pt>
+File: images/saas.png Graphic file (type png)
+<use images/saas.png>
+Package pdftex.def Info: images/saas.png  used on input line 707.
+(pdftex.def)             Requested size: 424.58952pt x 195.1305pt.
+
+
+[28 <./images/saas.png>]
+<images/freemium.png, id=121, 859.71187pt x 326.72063pt>
+File: images/freemium.png Graphic file (type png)
+<use images/freemium.png>
+Package pdftex.def Info: images/freemium.png  used on input line 731.
+(pdftex.def)             Requested size: 429.85487pt x 163.35991pt.
+
+
+[29 <./images/freemium.png>]
+<images/payasyougo.png, id=126, 557.83406pt x 289.08pt>
+File: images/payasyougo.png Graphic file (type png)
+<use images/payasyougo.png>
+Package pdftex.def Info: images/payasyougo.png  used on input line 744.
+(pdftex.def)             Requested size: 390.48117pt x 202.35461pt.
+<images/noleggio.png, id=127, 681.29532pt x 301.8778pt>
+File: images/noleggio.png Graphic file (type png)
+<use images/noleggio.png>
+Package pdftex.def Info: images/noleggio.png  used on input line 761.
+(pdftex.def)             Requested size: 408.78035pt x 181.12807pt.
+
+
+[30 <./images/payasyougo.png>]
+<images/franchising.png, id=132, 725.71124pt x 363.60844pt>
+File: images/franchising.png Graphic file (type png)
+<use images/franchising.png>
+Package pdftex.def Info: images/franchising.png  used on input line 774.
+(pdftex.def)             Requested size: 399.14241pt x 199.98524pt.
+
+
+[31 <./images/noleggio.png> <./images/franchising.png>]
+<images/broker.png, id=139, 742.27313pt x 327.47343pt>
+File: images/broker.png Graphic file (type png)
+<use images/broker.png>
+Package pdftex.def Info: images/broker.png  used on input line 789.
+(pdftex.def)             Requested size: 408.2515pt x 180.11095pt.
+
+
+[32 <./images/broker.png>]
+<images/community.png, id=144, 557.08125pt x 198.7425pt>
+File: images/community.png Graphic file (type png)
+<use images/community.png>
+Package pdftex.def Info: images/community.png  used on input line 806.
+(pdftex.def)             Requested size: 389.95422pt x 139.11879pt.
+<images/affiliazioni.png, id=145, 204.01219pt x 129.48375pt>
+File: images/affiliazioni.png Graphic file (type png)
+<use images/affiliazioni.png>
+Package pdftex.def Info: images/affiliazioni.png  used on input line 820.
+(pdftex.def)             Requested size: 163.20996pt x 103.58711pt.
+
+
+[33 <./images/community.png> <./images/affiliazioni.png>]
+<images/inserzioni.png, id=151, 666.99188pt x 291.33844pt>
+File: images/inserzioni.png Graphic file (type png)
+<use images/inserzioni.png>
+Package pdftex.def Info: images/inserzioni.png  used on input line 841.
+(pdftex.def)             Requested size: 400.19821pt x 174.8044pt.
+
+
+[34 <./images/inserzioni.png>]
+<images/donazioni.png, id=156, 711.4078pt x 313.9228pt>
+File: images/donazioni.png Graphic file (type png)
+<use images/donazioni.png>
+Package pdftex.def Info: images/donazioni.png  used on input line 857.
+(pdftex.def)             Requested size: 426.84798pt x 188.35512pt.
+
+
+[35 <./images/donazioni.png>] (OGA.aux)
  ***********
 LaTeX2e <2024-11-01>
 L3 programming layer <2024-11-02>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 3207 strings out of 473682
- 54849 string characters out of 5719215
- 451634 words of memory out of 5000000
- 26266 multiletter control sequences out of 15000+600000
+ 3291 strings out of 473682
+ 57126 string characters out of 5719215
+ 452634 words of memory out of 5000000
+ 26350 multiletter control sequences out of 15000+600000
  563568 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  59i,6n,67p,272b,199s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\aless\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1440.pk><C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on OGA.pdf (25 pages, 558391 bytes).
+Output written on OGA.pdf (35 pages, 2294921 bytes).
 PDF statistics:
- 124 PDF objects out of 1000 (max. 8388607)
+ 179 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 111 words of extra memory for PDF output out of 10000 (max. 10000000)
 
