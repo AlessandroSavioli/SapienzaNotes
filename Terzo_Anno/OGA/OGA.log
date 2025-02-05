@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.19)  5 FEB 2025 14:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.19)  5 FEB 2025 15:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -288,7 +288,13 @@ Package pdftex.def Info: images/stadi_declino.png  used on input line 357.
 
 [15 <./images/stadi_declino.png>]
 
-[16] (OGA.aux)
+[16]
+
+[17]
+
+[18]
+
+[19] (OGA.aux)
  ***********
 LaTeX2e <2024-11-01>
 L3 programming layer <2024-11-02>
@@ -297,15 +303,15 @@ L3 programming layer <2024-11-02>
 Here is how much of TeX's memory you used:
  3200 strings out of 473682
  54640 string characters out of 5719215
- 446634 words of memory out of 5000000
+ 447634 words of memory out of 5000000
  26259 multiletter control sequences out of 15000+600000
  563568 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  59i,6n,67p,272b,199s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\aless\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1440.pk><C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on OGA.pdf (16 pages, 505426 bytes).
+Output written on OGA.pdf (19 pages, 511671 bytes).
 PDF statistics:
- 93 PDF objects out of 1000 (max. 8388607)
+ 103 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
