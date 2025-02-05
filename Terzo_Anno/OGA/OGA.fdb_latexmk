@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1738767482.37588 "c:/Users/aless/Desktop/AppuntiSapienza/Terzo_Anno/OGA/OGA.tex" "OGA.pdf" "OGA" 1738767483.04807 0
+["pdflatex"] 1738767539.49233 "c:/Users/aless/Desktop/AppuntiSapienza/Terzo_Anno/OGA/OGA.tex" "OGA.pdf" "OGA" 1738767540.13738 0
   "C:/Users/aless/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1738686200 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/aless/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1440.pk" 1738686199 16968 04c8e89d719d272900ad1de84afadc26 ""
   "C:/Users/aless/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1732020687 11986914 cd054101c759eecf2994f134ec54add5 ""
@@ -43,10 +43,10 @@
   "C:/Users/aless/AppData/Local/Programs/MiKTeX/tex/latex/kvsetkeys/kvsetkeys.sty" 1665066333 13815 760b0c02f691ea230f5359c4e1de23a7 ""
   "C:/Users/aless/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1716480499 29785 9f93ab201fe5dd053afcc6c1bcf7d266 ""
   "C:/Users/aless/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "OGA.aux" 1738767482 3748 41a0b4de5018e50e74a22875908723c4 "pdflatex"
-  "OGA.tex" 1738767481 18700 88cbbcb5d1552b81f9213d87273dc324 ""
-  "OGA.toc" 1738767482 2444 704233346e86fef1c18de806b173f14e "pdflatex"
-  "c:/Users/aless/Desktop/AppuntiSapienza/Terzo_Anno/OGA/OGA.tex" 1738767481 18700 88cbbcb5d1552b81f9213d87273dc324 ""
+  "OGA.aux" 1738767540 3748 41a0b4de5018e50e74a22875908723c4 "pdflatex"
+  "OGA.tex" 1738767538 18700 97eb85a4c41be0e8e4c6e9e9d94b3380 ""
+  "OGA.toc" 1738767540 2444 704233346e86fef1c18de806b173f14e "pdflatex"
+  "c:/Users/aless/Desktop/AppuntiSapienza/Terzo_Anno/OGA/OGA.tex" 1738767538 18700 97eb85a4c41be0e8e4c6e9e9d94b3380 ""
   "images/Esempio_Organigramma.png" 1738684123 68981 e74b9060f984d6198363db7a1c96d23a ""
   "images/modello_divisionale.png" 1738741663 38448 3bd1cc8c95be63ca51540ce624664278 ""
   "images/modello_geografico.png" 1738742051 37609 a07fc998e280cb3700c9786781248a08 ""
