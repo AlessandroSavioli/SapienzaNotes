@@ -6,3 +6,8 @@
 \contentsline {subsection}{\numberline {3.3}I vari Tipi di Struttura Organizzativa}{4}{}%
 \contentsline {subsubsection}{\numberline {3.3.1}Il modello Gerarchico (Struttura Monofunzionale)}{4}{}%
 \contentsline {subsubsection}{\numberline {3.3.2}Il modello Gerarchico Funzionale (Struttura Gerarchico Funzionale)}{5}{}%
+\contentsline {subsubsection}{\numberline {3.3.3}Il modello Divisionale}{6}{}%
+\contentsline {subsubsection}{\numberline {3.3.4}Il modello per Area Geografica}{7}{}%
+\contentsline {subsubsection}{\numberline {3.3.5}Il modello a Matrice}{8}{}%
+\contentsline {subsubsection}{\numberline {3.3.6}Il modello a Rete}{8}{}%
+\contentsline {section}{\numberline {4}Lezione 4}{9}{}%

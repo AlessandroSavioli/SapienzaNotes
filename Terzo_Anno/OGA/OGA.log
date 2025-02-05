@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.19)  4 FEB 2025 17:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.19)  5 FEB 2025 09:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -231,24 +231,55 @@ Package pdftex.def Info: images/modello_gerarchico_funzionale.png  used on input
 (pdftex.def)             Requested size: 424.94614pt x 149.83928pt.
 
 
-[5 <./images/modello_gerarchico_funzionale.png>] (OGA.aux)
+[5 <./images/modello_gerarchico_funzionale.png>]
+<images/modello_divisionale.png, id=28, 794.97pt x 347.04657pt>
+File: images/modello_divisionale.png Graphic file (type png)
+<use images/modello_divisionale.png>
+Package pdftex.def Info: images/modello_divisionale.png  used on input line 158.
+(pdftex.def)             Requested size: 397.48402pt x 173.52286pt.
+
+
+[6]
+<images/modello_geografico.png, id=32, 790.45313pt x 357.58594pt>
+File: images/modello_geografico.png Graphic file (type png)
+<use images/modello_geografico.png>
+Package pdftex.def Info: images/modello_geografico.png  used on input line 173.
+(pdftex.def)             Requested size: 395.22559pt x 178.79253pt.
+
+
+[7 <./images/modello_divisionale.png> <./images/modello_geografico.png>]
+<images/modello_matrice.png, id=39, 698.61pt x 341.77687pt>
+File: images/modello_matrice.png Graphic file (type png)
+<use images/modello_matrice.png>
+Package pdftex.def Info: images/modello_matrice.png  used on input line 184.
+(pdftex.def)             Requested size: 419.16924pt x 205.0677pt.
+<images/modello_rete.png, id=40, 465.99094pt x 364.36125pt>
+File: images/modello_rete.png Graphic file (type png)
+<use images/modello_rete.png>
+Package pdftex.def Info: images/modello_rete.png  used on input line 198.
+(pdftex.def)             Requested size: 372.79324pt x 291.48938pt.
+
+
+[8 <./images/modello_matrice.png>]
+
+[9 <./images/modello_rete.png>] (OGA.aux)
  ***********
 LaTeX2e <2024-11-01>
 L3 programming layer <2024-11-02>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 3157 strings out of 473682
- 53245 string characters out of 5719215
- 445632 words of memory out of 5000000
- 26216 multiletter control sequences out of 15000+600000
+ 3186 strings out of 473682
+ 54201 string characters out of 5719215
+ 446632 words of memory out of 5000000
+ 26245 multiletter control sequences out of 15000+600000
  563568 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  59i,6n,67p,272b,199s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\aless\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1440.pk><C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on OGA.pdf (5 pages, 140377 bytes).
+Output written on OGA.pdf (9 pages, 276273 bytes).
 PDF statistics:
- 45 PDF objects out of 1000 (max. 8388607)
+ 67 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
