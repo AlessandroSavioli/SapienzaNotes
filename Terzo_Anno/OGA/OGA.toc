@@ -52,3 +52,17 @@
 \contentsline {subsubsection}{\numberline {6.1.11}Business model inserzione}{34}{}%
 \contentsline {subsubsection}{\numberline {6.1.12}Business model donazione}{34}{}%
 \contentsline {section}{\numberline {7}Lezione 7}{35}{}%
+\contentsline {subsection}{\numberline {7.1}Il business model canvas}{35}{}%
+\contentsline {subsubsection}{\numberline {7.1.1}Blocco 1, proposta di valore}{36}{}%
+\contentsline {subsubsection}{\numberline {7.1.2}Blocco 2, segmenti di clientela}{36}{}%
+\contentsline {subsubsection}{\numberline {7.1.3}Blocco 3, canali}{37}{}%
+\contentsline {subsubsection}{\numberline {7.1.4}Blocco 4, relazioni con i clienti}{38}{}%
+\contentsline {subsubsection}{\numberline {7.1.5}Blocco 5, flussi dei ricavi}{38}{}%
+\contentsline {subsubsection}{\numberline {7.1.6}Blocco 6, risorse chiave}{39}{}%
+\contentsline {subsubsection}{\numberline {7.1.7}Blocco 7, attività chiave}{40}{}%
+\contentsline {subsubsection}{\numberline {7.1.8}Blocco 8, partner chiave}{40}{}%
+\contentsline {subsubsection}{\numberline {7.1.9}Blocco 9, struttura dei costi}{41}{}%
+\contentsline {section}{\numberline {8}Lezione 8}{42}{}%
+\contentsline {subsection}{\numberline {8.1}Testare le idee di business}{42}{}%
+\contentsline {subsection}{\numberline {8.2}Ipotesi chiave}{43}{}%
+\contentsline {section}{\numberline {9}Lezione 9}{45}{}%
