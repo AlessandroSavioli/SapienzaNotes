@@ -1,68 +1,75 @@
-\contentsline {section}{\numberline {1}Lezione 1}{4}{}%
-\contentsline {section}{\numberline {2}Lezione 2}{4}{}%
-\contentsline {section}{\numberline {3}Lezione 3}{4}{}%
-\contentsline {subsection}{\numberline {3.1}La Struttura Organizzativa}{4}{}%
-\contentsline {subsection}{\numberline {3.2}Gli Organigrammi}{5}{}%
-\contentsline {subsection}{\numberline {3.3}I vari Tipi di Struttura Organizzativa}{6}{}%
-\contentsline {subsubsection}{\numberline {3.3.1}Il modello Gerarchico (Struttura Monofunzionale)}{6}{}%
-\contentsline {subsubsection}{\numberline {3.3.2}Il modello Gerarchico Funzionale (Struttura Gerarchico Funzionale)}{7}{}%
-\contentsline {subsubsection}{\numberline {3.3.3}Il modello Divisionale}{8}{}%
-\contentsline {subsubsection}{\numberline {3.3.4}Il modello per Area Geografica}{9}{}%
-\contentsline {subsubsection}{\numberline {3.3.5}Il modello a Matrice}{10}{}%
-\contentsline {subsubsection}{\numberline {3.3.6}Il modello a Rete}{10}{}%
-\contentsline {section}{\numberline {4}Lezione 4}{11}{}%
-\contentsline {subsection}{\numberline {4.1}Stadi dello Sviluppo di un'azienda}{11}{}%
-\contentsline {subsubsection}{\numberline {4.1.1}Stadio imprenditoriale}{12}{}%
-\contentsline {subsubsection}{\numberline {4.1.2}Stadio della collettività}{12}{}%
-\contentsline {subsubsection}{\numberline {4.1.3}Stadio della formalizzazione}{13}{}%
-\contentsline {subsubsection}{\numberline {4.1.4}Stadio di elaborazione}{13}{}%
-\contentsline {subsection}{\numberline {4.2}Stadi del Declino di un'azienda}{14}{}%
-\contentsline {subsubsection}{\numberline {4.2.1}Stadio della cecità}{14}{}%
-\contentsline {subsubsection}{\numberline {4.2.2}Stadio dell'inattività}{15}{}%
-\contentsline {subsubsection}{\numberline {4.2.3}Stadio dell'errore}{15}{}%
-\contentsline {subsubsection}{\numberline {4.2.4}Stadio della crisi}{16}{}%
-\contentsline {subsubsection}{\numberline {4.2.5}Stadio della dissoluzione}{16}{}%
-\contentsline {subsection}{\numberline {4.3}I diversi tipi di Azienda in Italia}{17}{}%
-\contentsline {subsubsection}{\numberline {4.3.1}La ditta individuale o società}{17}{}%
-\contentsline {subsection}{\numberline {4.4}Il bilancio di un'azienda}{18}{}%
-\contentsline {subsubsection}{\numberline {4.4.1}Elementi di un bilancio d'esercizio}{19}{}%
-\contentsline {subsection}{\numberline {4.5}l'Analisi di bilancio}{20}{}%
-\contentsline {section}{\numberline {5}Lezione 5}{20}{}%
-\contentsline {subsection}{\numberline {5.1}La start-up}{20}{}%
-\contentsline {subsection}{\numberline {5.2}La Hockey Stick Growth}{21}{}%
-\contentsline {subsubsection}{\numberline {5.2.1}Tinkering stage, fase di avvio}{22}{}%
-\contentsline {subsubsection}{\numberline {5.2.2}Blade years stage, fase di trazione}{22}{}%
-\contentsline {subsubsection}{\numberline {5.2.3}Growth inflection point, fase di scalabilità}{23}{}%
-\contentsline {subsubsection}{\numberline {5.2.4}Surging growth stage, fase di maturità}{23}{}%
-\contentsline {subsection}{\numberline {5.3}La start-up in Italia}{24}{}%
-\contentsline {subsection}{\numberline {5.4}La business idea}{24}{}%
-\contentsline {subsection}{\numberline {5.5}Il business model}{25}{}%
-\contentsline {section}{\numberline {6}Lezione 6}{26}{}%
-\contentsline {subsection}{\numberline {6.1}I vari tipi di business model}{26}{}%
-\contentsline {subsubsection}{\numberline {6.1.1}Business model transazionale}{26}{}%
-\contentsline {subsubsection}{\numberline {6.1.2}Business model marketplace}{27}{}%
-\contentsline {subsubsection}{\numberline {6.1.3}Business model SAAS (Software As A Service)}{28}{}%
-\contentsline {subsubsection}{\numberline {6.1.4}Business model freemium}{28}{}%
-\contentsline {subsubsection}{\numberline {6.1.5}Business model pay-as-you-go}{30}{}%
-\contentsline {subsubsection}{\numberline {6.1.6}Business model noleggio o leasing}{30}{}%
-\contentsline {subsubsection}{\numberline {6.1.7}Business model franchising}{31}{}%
-\contentsline {subsubsection}{\numberline {6.1.8}Business model broker}{32}{}%
-\contentsline {subsubsection}{\numberline {6.1.9}Business model community}{32}{}%
-\contentsline {subsubsection}{\numberline {6.1.10}Business model affiliazione}{33}{}%
-\contentsline {subsubsection}{\numberline {6.1.11}Business model inserzione}{34}{}%
-\contentsline {subsubsection}{\numberline {6.1.12}Business model donazione}{34}{}%
-\contentsline {section}{\numberline {7}Lezione 7}{35}{}%
-\contentsline {subsection}{\numberline {7.1}Il business model canvas}{35}{}%
-\contentsline {subsubsection}{\numberline {7.1.1}Blocco 1, proposta di valore}{36}{}%
-\contentsline {subsubsection}{\numberline {7.1.2}Blocco 2, segmenti di clientela}{36}{}%
-\contentsline {subsubsection}{\numberline {7.1.3}Blocco 3, canali}{37}{}%
-\contentsline {subsubsection}{\numberline {7.1.4}Blocco 4, relazioni con i clienti}{38}{}%
-\contentsline {subsubsection}{\numberline {7.1.5}Blocco 5, flussi dei ricavi}{38}{}%
-\contentsline {subsubsection}{\numberline {7.1.6}Blocco 6, risorse chiave}{39}{}%
-\contentsline {subsubsection}{\numberline {7.1.7}Blocco 7, attività chiave}{40}{}%
-\contentsline {subsubsection}{\numberline {7.1.8}Blocco 8, partner chiave}{40}{}%
-\contentsline {subsubsection}{\numberline {7.1.9}Blocco 9, struttura dei costi}{41}{}%
-\contentsline {section}{\numberline {8}Lezione 8}{42}{}%
-\contentsline {subsection}{\numberline {8.1}Testare le idee di business}{42}{}%
-\contentsline {subsection}{\numberline {8.2}Ipotesi chiave}{43}{}%
-\contentsline {section}{\numberline {9}Lezione 9}{45}{}%
+\contentsline {section}{\numberline {1}Lezione 1}{5}{}%
+\contentsline {section}{\numberline {2}Lezione 2}{5}{}%
+\contentsline {section}{\numberline {3}Lezione 3}{5}{}%
+\contentsline {subsection}{\numberline {3.1}La Struttura Organizzativa}{5}{}%
+\contentsline {subsection}{\numberline {3.2}Gli Organigrammi}{6}{}%
+\contentsline {subsection}{\numberline {3.3}I vari Tipi di Struttura Organizzativa}{7}{}%
+\contentsline {subsubsection}{\numberline {3.3.1}Il modello Gerarchico (Struttura Monofunzionale)}{7}{}%
+\contentsline {subsubsection}{\numberline {3.3.2}Il modello Gerarchico Funzionale (Struttura Gerarchico Funzionale)}{8}{}%
+\contentsline {subsubsection}{\numberline {3.3.3}Il modello Divisionale}{9}{}%
+\contentsline {subsubsection}{\numberline {3.3.4}Il modello per Area Geografica}{10}{}%
+\contentsline {subsubsection}{\numberline {3.3.5}Il modello a Matrice}{11}{}%
+\contentsline {subsubsection}{\numberline {3.3.6}Il modello a Rete}{11}{}%
+\contentsline {section}{\numberline {4}Lezione 4}{12}{}%
+\contentsline {subsection}{\numberline {4.1}Stadi dello Sviluppo di un'azienda}{12}{}%
+\contentsline {subsubsection}{\numberline {4.1.1}Stadio imprenditoriale}{13}{}%
+\contentsline {subsubsection}{\numberline {4.1.2}Stadio della collettività}{13}{}%
+\contentsline {subsubsection}{\numberline {4.1.3}Stadio della formalizzazione}{14}{}%
+\contentsline {subsubsection}{\numberline {4.1.4}Stadio di elaborazione}{14}{}%
+\contentsline {subsection}{\numberline {4.2}Stadi del Declino di un'azienda}{15}{}%
+\contentsline {subsubsection}{\numberline {4.2.1}Stadio della cecità}{15}{}%
+\contentsline {subsubsection}{\numberline {4.2.2}Stadio dell'inattività}{16}{}%
+\contentsline {subsubsection}{\numberline {4.2.3}Stadio dell'errore}{16}{}%
+\contentsline {subsubsection}{\numberline {4.2.4}Stadio della crisi}{17}{}%
+\contentsline {subsubsection}{\numberline {4.2.5}Stadio della dissoluzione}{17}{}%
+\contentsline {subsection}{\numberline {4.3}I diversi tipi di Azienda in Italia}{18}{}%
+\contentsline {subsubsection}{\numberline {4.3.1}La ditta individuale o società}{18}{}%
+\contentsline {subsection}{\numberline {4.4}Il bilancio di un'azienda}{19}{}%
+\contentsline {subsubsection}{\numberline {4.4.1}Elementi di un bilancio d'esercizio}{20}{}%
+\contentsline {subsection}{\numberline {4.5}l'Analisi di bilancio}{21}{}%
+\contentsline {section}{\numberline {5}Lezione 5}{21}{}%
+\contentsline {subsection}{\numberline {5.1}La start-up}{21}{}%
+\contentsline {subsection}{\numberline {5.2}La Hockey Stick Growth}{22}{}%
+\contentsline {subsubsection}{\numberline {5.2.1}Tinkering stage, fase di avvio}{23}{}%
+\contentsline {subsubsection}{\numberline {5.2.2}Blade years stage, fase di trazione}{23}{}%
+\contentsline {subsubsection}{\numberline {5.2.3}Growth inflection point, fase di scalabilità}{24}{}%
+\contentsline {subsubsection}{\numberline {5.2.4}Surging growth stage, fase di maturità}{24}{}%
+\contentsline {subsection}{\numberline {5.3}La start-up in Italia}{25}{}%
+\contentsline {subsection}{\numberline {5.4}La business idea}{25}{}%
+\contentsline {subsection}{\numberline {5.5}Il business model}{26}{}%
+\contentsline {section}{\numberline {6}Lezione 6}{27}{}%
+\contentsline {subsection}{\numberline {6.1}I vari tipi di business model}{27}{}%
+\contentsline {subsubsection}{\numberline {6.1.1}Business model transazionale}{27}{}%
+\contentsline {subsubsection}{\numberline {6.1.2}Business model marketplace}{28}{}%
+\contentsline {subsubsection}{\numberline {6.1.3}Business model SAAS (Software As A Service)}{29}{}%
+\contentsline {subsubsection}{\numberline {6.1.4}Business model freemium}{29}{}%
+\contentsline {subsubsection}{\numberline {6.1.5}Business model pay-as-you-go}{31}{}%
+\contentsline {subsubsection}{\numberline {6.1.6}Business model noleggio o leasing}{31}{}%
+\contentsline {subsubsection}{\numberline {6.1.7}Business model franchising}{32}{}%
+\contentsline {subsubsection}{\numberline {6.1.8}Business model broker}{33}{}%
+\contentsline {subsubsection}{\numberline {6.1.9}Business model community}{33}{}%
+\contentsline {subsubsection}{\numberline {6.1.10}Business model affiliazione}{34}{}%
+\contentsline {subsubsection}{\numberline {6.1.11}Business model inserzione}{35}{}%
+\contentsline {subsubsection}{\numberline {6.1.12}Business model donazione}{35}{}%
+\contentsline {section}{\numberline {7}Lezione 7}{36}{}%
+\contentsline {subsection}{\numberline {7.1}Il business model canvas}{36}{}%
+\contentsline {subsubsection}{\numberline {7.1.1}Blocco 1, proposta di valore}{37}{}%
+\contentsline {subsubsection}{\numberline {7.1.2}Blocco 2, segmenti di clientela}{37}{}%
+\contentsline {subsubsection}{\numberline {7.1.3}Blocco 3, canali}{38}{}%
+\contentsline {subsubsection}{\numberline {7.1.4}Blocco 4, relazioni con i clienti}{39}{}%
+\contentsline {subsubsection}{\numberline {7.1.5}Blocco 5, flussi dei ricavi}{39}{}%
+\contentsline {subsubsection}{\numberline {7.1.6}Blocco 6, risorse chiave}{40}{}%
+\contentsline {subsubsection}{\numberline {7.1.7}Blocco 7, attività chiave}{41}{}%
+\contentsline {subsubsection}{\numberline {7.1.8}Blocco 8, partner chiave}{41}{}%
+\contentsline {subsubsection}{\numberline {7.1.9}Blocco 9, struttura dei costi}{42}{}%
+\contentsline {section}{\numberline {8}Lezione 8}{43}{}%
+\contentsline {subsection}{\numberline {8.1}Testare le idee di business}{43}{}%
+\contentsline {subsection}{\numberline {8.2}Ipotesi chiave}{44}{}%
+\contentsline {section}{\numberline {9}Lezione 9}{46}{}%
+\contentsline {subsection}{\numberline {9.1}Progettazione della value proposition}{46}{}%
+\contentsline {subsection}{\numberline {9.2}Il value proposition canvas}{46}{}%
+\contentsline {subsubsection}{\numberline {9.2.1}Profilo del cliente}{48}{}%
+\contentsline {subsubsection}{\numberline {9.2.2}La proposta di valore}{48}{}%
+\contentsline {subsection}{\numberline {9.3}Adeguatezza value proposition-profilo cliente}{49}{}%
+\contentsline {section}{\numberline {10}Lezione 12}{49}{}%
+\contentsline {subsection}{\numberline {10.1}Il business plan}{49}{}%

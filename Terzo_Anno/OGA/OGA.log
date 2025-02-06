@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.19)  6 FEB 2025 10:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.19)  6 FEB 2025 13:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -203,208 +203,208 @@ Overfull \hbox (0.73979pt too wide) in paragraph at lines 8--8
 
 {C:/Users/aless/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 
-[2])
+[2]
+
+[3])
 \tf@toc=\write3
 \openout3 = `OGA.toc'.
 
 
 
-[3]
-
 [4]
-<images/Esempio_Organigramma.png, id=18, 496.10344pt x 242.40562pt>
+
+[5]
+<images/Esempio_Organigramma.png, id=21, 496.10344pt x 242.40562pt>
 File: images/Esempio_Organigramma.png Graphic file (type png)
 <use images/Esempio_Organigramma.png>
 Package pdftex.def Info: images/Esempio_Organigramma.png  used on input line 70.
 (pdftex.def)             Requested size: 396.88329pt x 193.92474pt.
 
 
-[5 <./images/Esempio_Organigramma.png>]
-<images/modello_gerarchico.png, id=24, 480.29437pt x 216.05719pt>
+[6 <./images/Esempio_Organigramma.png>]
+<images/modello_gerarchico.png, id=27, 480.29437pt x 216.05719pt>
 File: images/modello_gerarchico.png Graphic file (type png)
 <use images/modello_gerarchico.png>
 Package pdftex.def Info: images/modello_gerarchico.png  used on input line 100.
 (pdftex.def)             Requested size: 384.23601pt x 172.84596pt.
 
 
-[6 <./images/modello_gerarchico.png>]
-<images/modello_gerarchico_funzionale.png, id=29, 663.98062pt x 234.1247pt>
+[7 <./images/modello_gerarchico.png>]
+<images/modello_gerarchico_funzionale.png, id=33, 663.98062pt x 234.1247pt>
 File: images/modello_gerarchico_funzionale.png Graphic file (type png)
 <use images/modello_gerarchico_funzionale.png>
 Package pdftex.def Info: images/modello_gerarchico_funzionale.png  used on input line 119.
 (pdftex.def)             Requested size: 424.94614pt x 149.83928pt.
 
 
-[7 <./images/modello_gerarchico_funzionale.png>]
-<images/modello_divisionale.png, id=35, 794.97pt x 347.04657pt>
+[8 <./images/modello_gerarchico_funzionale.png>]
+<images/modello_divisionale.png, id=38, 794.97pt x 347.04657pt>
 File: images/modello_divisionale.png Graphic file (type png)
 <use images/modello_divisionale.png>
 Package pdftex.def Info: images/modello_divisionale.png  used on input line 158.
 (pdftex.def)             Requested size: 397.48402pt x 173.52286pt.
 
 
-[8]
-<images/modello_geografico.png, id=39, 790.45313pt x 357.58594pt>
+[9]
+<images/modello_geografico.png, id=42, 790.45313pt x 357.58594pt>
 File: images/modello_geografico.png Graphic file (type png)
 <use images/modello_geografico.png>
 Package pdftex.def Info: images/modello_geografico.png  used on input line 173.
 (pdftex.def)             Requested size: 395.22559pt x 178.79253pt.
 
 
-[9 <./images/modello_divisionale.png> <./images/modello_geografico.png>]
-<images/modello_matrice.png, id=45, 698.61pt x 341.77687pt>
+[10 <./images/modello_divisionale.png> <./images/modello_geografico.png>]
+<images/modello_matrice.png, id=48, 698.61pt x 341.77687pt>
 File: images/modello_matrice.png Graphic file (type png)
 <use images/modello_matrice.png>
 Package pdftex.def Info: images/modello_matrice.png  used on input line 184.
 (pdftex.def)             Requested size: 419.16924pt x 205.0677pt.
-<images/modello_rete.png, id=46, 465.99094pt x 364.36125pt>
+<images/modello_rete.png, id=49, 465.99094pt x 364.36125pt>
 File: images/modello_rete.png Graphic file (type png)
 <use images/modello_rete.png>
 Package pdftex.def Info: images/modello_rete.png  used on input line 198.
 (pdftex.def)             Requested size: 372.79324pt x 291.48938pt.
 
 
-[10 <./images/modello_matrice.png>]
+[11 <./images/modello_matrice.png>]
 
-[11 <./images/modello_rete.png>]
+[12 <./images/modello_rete.png>]
 
-[12]
-<images/stati_sviluppo.png, id=58, 785.93625pt x 346.29375pt>
+[13]
+<images/stati_sviluppo.png, id=62, 785.93625pt x 346.29375pt>
 File: images/stati_sviluppo.png Graphic file (type png)
 <use images/stati_sviluppo.png>
 Package pdftex.def Info: images/stati_sviluppo.png  used on input line 283.
 (pdftex.def)             Requested size: 392.96716pt x 173.14644pt.
 
 
-[13]
+[14]
 
-[14 <./images/stati_sviluppo.png>]
+[15 <./images/stati_sviluppo.png>]
 
-[15]
-<images/stadi_declino.png, id=70, 702.37407pt x 355.3275pt>
+[16]
+<images/stadi_declino.png, id=73, 702.37407pt x 355.3275pt>
 File: images/stadi_declino.png Graphic file (type png)
 <use images/stadi_declino.png>
 Package pdftex.def Info: images/stadi_declino.png  used on input line 357.
 (pdftex.def)             Requested size: 421.42769pt x 213.19814pt.
 
 
-[16 <./images/stadi_declino.png>]
-
-[17]
+[17 <./images/stadi_declino.png>]
 
 [18]
 
 [19]
 
 [20]
-<images/hockey_stick.png, id=88, 484.05844pt x 246.1697pt>
+
+[21]
+<images/hockey_stick.png, id=91, 484.05844pt x 246.1697pt>
 File: images/hockey_stick.png Graphic file (type png)
 <use images/hockey_stick.png>
 Package pdftex.def Info: images/hockey_stick.png  used on input line 508.
 (pdftex.def)             Requested size: 387.24727pt x 196.936pt.
 
 
-[21 <./images/hockey_stick.png>]
-
-[22]
+[22 <./images/hockey_stick.png>]
 
 [23]
 
 [24]
 
 [25]
-<images/transazionale.png, id=106, 706.89093pt x 334.24875pt>
+
+[26]
+<images/transazionale.png, id=109, 706.89093pt x 334.24875pt>
 File: images/transazionale.png Graphic file (type png)
 <use images/transazionale.png>
 Package pdftex.def Info: images/transazionale.png  used on input line 671.
 (pdftex.def)             Requested size: 424.13783pt x 200.55078pt.
 
 
-[26 <./images/transazionale.png>]
-<images/marketplace.png, id=111, 798.73407pt x 346.29375pt>
+[27 <./images/transazionale.png>]
+<images/marketplace.png, id=114, 798.73407pt x 346.29375pt>
 File: images/marketplace.png Graphic file (type png)
 <use images/marketplace.png>
 Package pdftex.def Info: images/marketplace.png  used on input line 688.
 (pdftex.def)             Requested size: 399.36606pt x 173.14644pt.
 
 
-[27 <./images/marketplace.png>]
-<images/saas.png, id=116, 707.64375pt x 325.215pt>
+[28 <./images/marketplace.png>]
+<images/saas.png, id=119, 707.64375pt x 325.215pt>
 File: images/saas.png Graphic file (type png)
 <use images/saas.png>
 Package pdftex.def Info: images/saas.png  used on input line 707.
 (pdftex.def)             Requested size: 424.58952pt x 195.1305pt.
 
 
-[28 <./images/saas.png>]
-<images/freemium.png, id=121, 859.71187pt x 326.72063pt>
+[29 <./images/saas.png>]
+<images/freemium.png, id=124, 859.71187pt x 326.72063pt>
 File: images/freemium.png Graphic file (type png)
 <use images/freemium.png>
 Package pdftex.def Info: images/freemium.png  used on input line 731.
 (pdftex.def)             Requested size: 429.85487pt x 163.35991pt.
 
 
-[29 <./images/freemium.png>]
-<images/payasyougo.png, id=126, 557.83406pt x 289.08pt>
+[30 <./images/freemium.png>]
+<images/payasyougo.png, id=129, 557.83406pt x 289.08pt>
 File: images/payasyougo.png Graphic file (type png)
 <use images/payasyougo.png>
 Package pdftex.def Info: images/payasyougo.png  used on input line 744.
 (pdftex.def)             Requested size: 390.48117pt x 202.35461pt.
-<images/noleggio.png, id=127, 681.29532pt x 301.8778pt>
+<images/noleggio.png, id=130, 681.29532pt x 301.8778pt>
 File: images/noleggio.png Graphic file (type png)
 <use images/noleggio.png>
 Package pdftex.def Info: images/noleggio.png  used on input line 761.
 (pdftex.def)             Requested size: 408.78035pt x 181.12807pt.
 
 
-[30 <./images/payasyougo.png>]
-<images/franchising.png, id=132, 725.71124pt x 363.60844pt>
+[31 <./images/payasyougo.png>]
+<images/franchising.png, id=136, 725.71124pt x 363.60844pt>
 File: images/franchising.png Graphic file (type png)
 <use images/franchising.png>
 Package pdftex.def Info: images/franchising.png  used on input line 774.
 (pdftex.def)             Requested size: 399.14241pt x 199.98524pt.
 
 
-[31 <./images/noleggio.png> <./images/franchising.png>]
-<images/broker.png, id=139, 742.27313pt x 327.47343pt>
+[32 <./images/noleggio.png> <./images/franchising.png>]
+<images/broker.png, id=142, 742.27313pt x 327.47343pt>
 File: images/broker.png Graphic file (type png)
 <use images/broker.png>
 Package pdftex.def Info: images/broker.png  used on input line 789.
 (pdftex.def)             Requested size: 408.2515pt x 180.11095pt.
 
 
-[32 <./images/broker.png>]
-<images/community.png, id=144, 557.08125pt x 198.7425pt>
+[33 <./images/broker.png>]
+<images/community.png, id=147, 557.08125pt x 198.7425pt>
 File: images/community.png Graphic file (type png)
 <use images/community.png>
 Package pdftex.def Info: images/community.png  used on input line 806.
 (pdftex.def)             Requested size: 389.95422pt x 139.11879pt.
-<images/affiliazioni.png, id=145, 204.01219pt x 129.48375pt>
+<images/affiliazioni.png, id=148, 204.01219pt x 129.48375pt>
 File: images/affiliazioni.png Graphic file (type png)
 <use images/affiliazioni.png>
 Package pdftex.def Info: images/affiliazioni.png  used on input line 820.
 (pdftex.def)             Requested size: 163.20996pt x 103.58711pt.
 
 
-[33 <./images/community.png> <./images/affiliazioni.png>]
-<images/inserzioni.png, id=151, 666.99188pt x 291.33844pt>
+[34 <./images/community.png> <./images/affiliazioni.png>]
+<images/inserzioni.png, id=154, 666.99188pt x 291.33844pt>
 File: images/inserzioni.png Graphic file (type png)
 <use images/inserzioni.png>
 Package pdftex.def Info: images/inserzioni.png  used on input line 841.
 (pdftex.def)             Requested size: 400.19821pt x 174.8044pt.
 
 
-[34 <./images/inserzioni.png>]
-<images/donazioni.png, id=156, 711.4078pt x 313.9228pt>
+[35 <./images/inserzioni.png>]
+<images/donazioni.png, id=159, 711.4078pt x 313.9228pt>
 File: images/donazioni.png Graphic file (type png)
 <use images/donazioni.png>
 Package pdftex.def Info: images/donazioni.png  used on input line 857.
 (pdftex.def)             Requested size: 426.84798pt x 188.35512pt.
 
 
-[35 <./images/donazioni.png>]
-
-[36]
+[36 <./images/donazioni.png>]
 
 [37]
 
@@ -413,56 +413,76 @@ Package pdftex.def Info: images/donazioni.png  used on input line 857.
 [39]
 
 [40]
-<images/businessmodelcanvas.png, id=178, 553.31718pt x 338.01282pt>
+
+[41]
+<images/businessmodelcanvas.png, id=181, 553.31718pt x 338.01282pt>
 File: images/businessmodelcanvas.png Graphic file (type png)
 <use images/businessmodelcanvas.png>
 Package pdftex.def Info: images/businessmodelcanvas.png  used on input line 1060.
 (pdftex.def)             Requested size: 426.05554pt x 260.27066pt.
 
 
-[41 <./images/businessmodelcanvas.png>]
-<images/testare.png, id=183, 891.33pt x 376.40625pt>
+[42 <./images/businessmodelcanvas.png>]
+<images/testare.png, id=186, 891.33pt x 376.40625pt>
 File: images/testare.png Graphic file (type png)
 <use images/testare.png>
 Package pdftex.def Info: images/testare.png  used on input line 1093.
 (pdftex.def)             Requested size: 401.0948pt x 169.38124pt.
 
 
-[42]
+[43]
 
-[43 <./images/testare.png>]
-<images/rischi.png, id=192, 764.10469pt x 341.77687pt>
+[44 <./images/testare.png>]
+<images/rischi.png, id=195, 764.10469pt x 341.77687pt>
 File: images/rischi.png Graphic file (type png)
 <use images/rischi.png>
 Package pdftex.def Info: images/rischi.png  used on input line 1116.
 (pdftex.def)             Requested size: 420.25888pt x 187.97786pt.
-<images/ipotesi.png, id=193, 416.30531pt x 260.47313pt>
+<images/ipotesi.png, id=196, 416.30531pt x 260.47313pt>
 File: images/ipotesi.png Graphic file (type png)
 <use images/ipotesi.png>
 Package pdftex.def Info: images/ipotesi.png  used on input line 1119.
 (pdftex.def)             Requested size: 333.0447pt x 208.37878pt.
 
 
-[44 <./images/rischi.png> <./images/ipotesi.png>]
+[45 <./images/rischi.png> <./images/ipotesi.png>]
+<images/valuecanvas.png, id=202, 848.4197pt x 326.72063pt>
+File: images/valuecanvas.png Graphic file (type png)
+<use images/valuecanvas.png>
+Package pdftex.def Info: images/valuecanvas.png  used on input line 1153.
+(pdftex.def)             Requested size: 424.20882pt x 163.35991pt.
 
-[45] (OGA.aux)
+
+[46]
+
+[47 <./images/valuecanvas.png>]
+
+[48]
+<images/adeguatezza.png, id=213, 693.34032pt x 320.69812pt>
+File: images/adeguatezza.png Graphic file (type png)
+<use images/adeguatezza.png>
+Package pdftex.def Info: images/adeguatezza.png  used on input line 1209.
+(pdftex.def)             Requested size: 416.0074pt x 192.42035pt.
+
+
+[49 <./images/adeguatezza.png>] (OGA.aux)
  ***********
 LaTeX2e <2024-11-01>
 L3 programming layer <2024-11-02>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 3322 strings out of 473682
- 57930 string characters out of 5719215
+ 3336 strings out of 473682
+ 58334 string characters out of 5719215
  452634 words of memory out of 5000000
- 26380 multiletter control sequences out of 15000+600000
+ 26394 multiletter control sequences out of 15000+600000
  563915 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  59i,6n,67p,272b,199s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\aless\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1440.pk><C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on OGA.pdf (45 pages, 2506012 bytes).
+Output written on OGA.pdf (49 pages, 2725967 bytes).
 PDF statistics:
- 226 PDF objects out of 1000 (max. 8388607)
+ 243 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 131 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 141 words of extra memory for PDF output out of 10000 (max. 10000000)
 
