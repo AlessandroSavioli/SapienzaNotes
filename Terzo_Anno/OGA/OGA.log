@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.19)  6 FEB 2025 13:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.19)  9 FEB 2025 22:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -465,24 +465,48 @@ Package pdftex.def Info: images/adeguatezza.png  used on input line 1209.
 (pdftex.def)             Requested size: 416.0074pt x 192.42035pt.
 
 
-[49 <./images/adeguatezza.png>] (OGA.aux)
+[49 <./images/adeguatezza.png>]
+
+[50]
+<images/mercato.png, id=222, 225.09094pt x 221.32687pt>
+File: images/mercato.png Graphic file (type png)
+<use images/mercato.png>
+Package pdftex.def Info: images/mercato.png  used on input line 1263.
+(pdftex.def)             Requested size: 225.09038pt x 221.32631pt.
+
+
+[51 <./images/mercato.png>]
+
+[52]
+<images/SWOT.png, id=230, 654.19406pt x 290.58563pt>
+File: images/SWOT.png Graphic file (type png)
+<use images/SWOT.png>
+Package pdftex.def Info: images/SWOT.png  used on input line 1306.
+(pdftex.def)             Requested size: 425.2211pt x 188.87842pt.
+
+
+[53 <./images/SWOT.png>]
+
+[54]
+
+[55] (OGA.aux)
  ***********
 LaTeX2e <2024-11-01>
 L3 programming layer <2024-11-02>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 3336 strings out of 473682
- 58334 string characters out of 5719215
+ 3350 strings out of 473682
+ 58661 string characters out of 5719215
  452634 words of memory out of 5000000
- 26394 multiletter control sequences out of 15000+600000
+ 26408 multiletter control sequences out of 15000+600000
  563915 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  59i,6n,67p,272b,199s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\aless\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1440.pk><C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on OGA.pdf (49 pages, 2725967 bytes).
+Output written on OGA.pdf (55 pages, 2881687 bytes).
 PDF statistics:
- 243 PDF objects out of 1000 (max. 8388607)
+ 266 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 141 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 151 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1738844985.21849 "c:/Users/aless/Desktop/AppuntiSapienza/Terzo_Anno/OGA/OGA.tex" "OGA.pdf" "OGA" 1738844986.49666 0
+["pdflatex"] 1739135303.64457 "c:/Users/aless/Desktop/AppuntiSapienza/Terzo_Anno/OGA/OGA.tex" "OGA.pdf" "OGA" 1739135305.02958 0
   "C:/Users/aless/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1738686200 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/aless/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1440.pk" 1738686199 16968 04c8e89d719d272900ad1de84afadc26 ""
   "C:/Users/aless/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1732020687 11986914 cd054101c759eecf2994f134ec54add5 ""
@@ -45,11 +45,12 @@
   "C:/Users/aless/AppData/Local/Programs/MiKTeX/tex/latex/kvsetkeys/kvsetkeys.sty" 1665066333 13815 760b0c02f691ea230f5359c4e1de23a7 ""
   "C:/Users/aless/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1716480499 29785 9f93ab201fe5dd053afcc6c1bcf7d266 ""
   "C:/Users/aless/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "OGA.aux" 1738844986 9098 b16d5dafa80238c3b771e4969e6a7d5e "pdflatex"
-  "OGA.tex" 1738844984 47459 17c8d8b258bd9d08a2a948a3f3b81e09 ""
-  "OGA.toc" 1738844986 5990 4086d942f904e63a576fb6fb56c75125 "pdflatex"
-  "c:/Users/aless/Desktop/AppuntiSapienza/Terzo_Anno/OGA/OGA.tex" 1738844984 47459 17c8d8b258bd9d08a2a948a3f3b81e09 ""
+  "OGA.aux" 1739135304 10459 9773786395e330411c2a35e46d62c110 "pdflatex"
+  "OGA.tex" 1739135303 52886 061e651caea5d28e0d9fbe149236e057 ""
+  "OGA.toc" 1739135304 6900 03796a59f5603121c29e60f943e1ccc8 "pdflatex"
+  "c:/Users/aless/Desktop/AppuntiSapienza/Terzo_Anno/OGA/OGA.tex" 1739135303 52886 061e651caea5d28e0d9fbe149236e057 ""
   "images/Esempio_Organigramma.png" 1738684123 68981 e74b9060f984d6198363db7a1c96d23a ""
+  "images/SWOT.png" 1739134644 120738 aa22d8cfa8b101b7e08bba359659e5ba ""
   "images/adeguatezza.png" 1738844710 137615 73420d9b6977e2510b846edb52c3bcb7 ""
   "images/affiliazioni.png" 1738780565 30644 a78f8bff6e98172713a95e0fc276ead2 ""
   "images/broker.png" 1738780542 134091 0b510a78872d76536084353d4d076953 ""
@@ -62,6 +63,7 @@
   "images/inserzioni.png" 1738780577 124997 00e0efb8a172b40d0c08344dfd22c338 ""
   "images/ipotesi.png" 1738835325 28965 c06548691610feada312ef6edab79525 ""
   "images/marketplace.png" 1738780467 123664 edb251899495152ab248f663d1981e72 ""
+  "images/mercato.png" 1739134067 48753 0e6a639741220eb8d99bbb59acdd9bcd ""
   "images/modello_divisionale.png" 1738741663 38448 3bd1cc8c95be63ca51540ce624664278 ""
   "images/modello_geografico.png" 1738742051 37609 a07fc998e280cb3700c9786781248a08 ""
   "images/modello_gerarchico.png" 1738684993 7804 bf253db35622e43e5c14cd864a3eddb6 ""
