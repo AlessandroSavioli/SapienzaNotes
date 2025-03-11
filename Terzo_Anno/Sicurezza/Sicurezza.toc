@@ -1,11 +1,13 @@
-\contentsline {section}{\numberline {1}Introduzione}{2}{}%
-\contentsline {section}{\numberline {2}CIA e Livelli di impatto}{2}{}%
-\contentsline {subsection}{\numberline {2.1}CIA}{2}{}%
-\contentsline {subsection}{\numberline {2.2}Livelli d'impatto}{4}{}%
-\contentsline {subsection}{\numberline {2.3}Un modello per la sicurezza informatica}{5}{}%
-\contentsline {subsection}{\numberline {2.4}Attacchi e Conseguenze}{6}{}%
-\contentsline {subsubsection}{\numberline {2.4.1}Rilascio non autorizzato}{7}{}%
-\contentsline {subsubsection}{\numberline {2.4.2}Inganno}{7}{}%
-\contentsline {subsubsection}{\numberline {2.4.3}Interruzione}{8}{}%
-\contentsline {subsubsection}{\numberline {2.4.4}Usurpazione}{8}{}%
-\contentsline {subsection}{\numberline {2.5}Attacchi passivi e attivi}{9}{}%
+\contentsline {section}{\numberline {1}Capitolo 1}{2}{}%
+\contentsline {subsection}{\numberline {1.1}CIA}{2}{}%
+\contentsline {subsection}{\numberline {1.2}Livelli d'impatto}{4}{}%
+\contentsline {subsection}{\numberline {1.3}Un modello per la sicurezza informatica}{5}{}%
+\contentsline {subsection}{\numberline {1.4}Attacchi e Conseguenze}{6}{}%
+\contentsline {subsubsection}{\numberline {1.4.1}Rilascio non autorizzato}{7}{}%
+\contentsline {subsubsection}{\numberline {1.4.2}Inganno}{7}{}%
+\contentsline {subsubsection}{\numberline {1.4.3}Interruzione}{8}{}%
+\contentsline {subsubsection}{\numberline {1.4.4}Usurpazione}{8}{}%
+\contentsline {subsection}{\numberline {1.5}Attacchi passivi e attivi}{9}{}%
+\contentsline {section}{\numberline {2}Capitolo 2}{10}{}%
+\contentsline {subsection}{\numberline {2.1}Strumenti per la crittografia}{10}{}%
+\contentsline {subsection}{\numberline {2.2}Confidenzialità con chiave simmetrica}{10}{}%
